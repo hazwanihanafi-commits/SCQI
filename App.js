@@ -1,0 +1,1 @@
+console.log('SCLOG v2 App placeholder');
